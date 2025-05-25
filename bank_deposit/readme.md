@@ -108,7 +108,7 @@ Deposify offers measurable improvements in banking operations:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deposify-term-deposit-prediction.git
+   git clone https://github.com/abhaypra/MLLab/deposify-term-deposit-prediction.git
    cd deposify-term-deposit-prediction
 
 
